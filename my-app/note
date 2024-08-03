@@ -1,0 +1,11 @@
+open files
+ 
+
+install  the packages 
+
+npm install 
+
+npm install react-redux 
+npm install @reduxjs/toolkit
+
+start =>npm run android
